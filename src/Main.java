@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
 /*
- *  Section 2.2-2.12
- *  2.19
+ *  Write a Program That Prompts The User to enter Three Points (x1,y1),(x2,y2),(x3,y3),
+ * of a Triangle and displays its area
+ *  
  * */
 public class Main {
     public static void main(String[] args) {
